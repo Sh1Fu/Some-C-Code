@@ -3,7 +3,7 @@ Some C(and C++ code) from university courses
 
 <details> 
   <summary align="center">Q1: Whats the university? </summary>
-  <p align="center">A1: SPbPU</p>
+  <p align="center">A1: Not so important</p>
 </details>
 
 * Informations Security - предмет "Основы информационной безопасности"
